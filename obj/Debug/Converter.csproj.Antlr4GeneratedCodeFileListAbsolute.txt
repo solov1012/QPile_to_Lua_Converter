@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\pRAC\QPILE-to-Lua-converter-master\obj\Debug\QPILE_converterV2Lexer.cs
+C:\Users\1\Desktop\pRAC\QPILE-to-Lua-converter-master\obj\Debug\QPILE_converterV2Parser.cs
+C:\Users\1\Desktop\pRAC\QPILE-to-Lua-converter-master\obj\Debug\QPILE_converterV2Listener.cs
+C:\Users\1\Desktop\pRAC\QPILE-to-Lua-converter-master\obj\Debug\QPILE_converterV2BaseListener.cs
+C:\Users\1\Desktop\pRAC\QPILE-to-Lua-converter-master\obj\Debug\QPILE_converterV2Visitor.cs
+C:\Users\1\Desktop\pRAC\QPILE-to-Lua-converter-master\obj\Debug\QPILE_converterV2BaseVisitor.cs
